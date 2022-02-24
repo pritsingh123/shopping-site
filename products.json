@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Refurbished Samsung Guru 1200",
+        "price": 13.15,
+        "cat": "Cellphone",
+        "image": "images/cellphone7",
+        "brand": "Samsung",
+        "type": 1
+    },
+    {
+        "id": 2,
+        "name": "Nokia 1600 Black",
+        "price": 21.71,
+        "cat": "Cellphone",
+        "image": "images/cellphone6.jpg",
+        "brand": "Nokia",
+        "type": 1
+    },
+    {
+        "id": 3,
+        "name": "I Kall K22",
+        "price": 7.41,
+        "cat": "Cellphone",
+        "image": "images/cellphone3.jpg",
+        "brand": "I kal",
+        "type": 1
+    },
+    {
+        "id": 4,
+        "name": "I Kall K20 Multimedia Mobile Phone",
+        "price": 11.97,
+        "cat": "Cellphone",
+        "image": "images/cellphone1.jpg",
+        "brand": "I kal",
+        "type": 1
+    },
+    {
+        "id": 5,
+        "name": "Apple iPhone 12 Pro Max 256 GB, Pacific Blue",
+        "price": 228.63,
+        "cat": "Smartphone",
+        "image": "images/smartphone1.jpg",
+        "brand": "Apple",
+        "type": 1
+    },
+    {
+        "id": 6,
+        "name": "Oppo A53s 5G 128 GB, 8 GB RAM, Ink Black",
+        "price": 301.67,
+        "cat": "Smartphone",
+        "image": "images/smartphone2.jpg",
+        "brand": "Oppo",
+        "type": 1
+    },
+    {
+        "id": 7,
+        "name": "OnePlus Nord CE 5G 256 GB, 12 GB RAM, Charcoal Ink",
+        "price": 469.50,
+        "cat": "Smartphone",
+        "image": "images/smartphone3.jpg",
+        "Brand": "OnePlus",
+        "type": 1
+    },
+    {
+        "id": 7,
+        "name": "Apple iPhone 12 Mini 128 GB, Blue",
+        "price": 193.17,
+        "cat": "Smartphone",
+        "image": "images/smartphone11.jpg",
+        "brand": "Apple",
+        "type": 1
+    },
+    {
+        "id": 8,
+        "name": "Redmi 9 Power 64 GB, 4 GB RAM, Blazing Blue",
+        "price": 184.44,
+        "cat": "Smartphone",
+        "image": "images/smartphone5.jpg",
+        "brand": "Redmi",
+        "type": 1
+    },
+    {
+        "id": 9,
+        "name": "Realme C25 128 GB, 4 GB RAM, Watery Blue",
+        "price": 184.44,
+        "cat": "Smartphone",
+        "image": "images/smartphone7.jpg",
+        "brand": "Realme",
+        "type": 1
+    },
+    {
+        "id": 10,
+        "name": "Nokia 3.4 64 GB, 4 GB, Charcoal",
+        "price": 184.44,
+        "cat": "Smartphone",
+        "image": "images/smartphone8.jpg",
+        "brand": "Nokia",
+        "type": 1
+    },
+    {
+        "id": 11,
+        "name": "Mi 11X 128 GB, 6 GB RAM, Celestial Silver",
+        "price": 503.04,
+        "cat": "Smartphone",
+        "image": "images/smartphone9.jpg",
+        "brand": "Mi",
+        "type": 1
+    },
+    {
+        "id": 12,
+        "name": "Apple iPad Air 4th Gen Wi-Fi Tablet, Space Grey MYFM2HN/A",
+        "price": 920.60,
+        "cat": "Tablet",
+        "image": "images/tab2.jpg",
+        "brand": "Apple",
+        "type": 1
+    },
+    {
+        "id": 13,
+        "name": "Lenovo M10 HD Wi-Fi Tablet 2 GB RAM, 32 GB, Black ZA4G0007IN",
+        "price": 184.44,
+        "cat": "Tablet",
+        "image": "images/tab1.jpg",
+        "brand": "Lenevo",
+        "type": 1
+    },
+    {
+        "id": 14,
+        "name": "Samsung TabS7 6 GB, 128 GB WiFi (Mystic Silver), SM-T870NZSAINU",
+        "price": 939.03,
+        "cat": "Tablet",
+        "image": "images/tab3.jpg",
+        "brand": "Samsung",
+        "type": 1
+    },
+    {
+        "id": 15,
+        "name": "iBall Bizniz Mini Tablet 2 GB, 32 GB, Coal Black iT-KSA0066",
+        "price": 176.05,
+        "cat": "Tablet",
+        "image": "images/tab4.jpg",
+        "brand": "Samsung",
+        "type": 2
+    }
+]

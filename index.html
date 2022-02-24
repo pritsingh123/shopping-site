@@ -1,0 +1,57 @@
+<!-- <!DOCTYPE html> -->
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <script src="search.js" defer></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"> </script>
+   
+</head>
+
+<body>
+    <label>SEARCH</label>
+    <input type="text" onkeyup="search(this)" placeholder="search"><br><br>
+
+    <input type="button" id="login" onclick = "showform()"  value="login">
+
+    <input type = "button" onclick = "showcart()" value = "Go to cart">
+
+    <input type = "button" id = "logout_id" onclick = "logout()" value = "Log Out">
+
+    <!-- filter wala kaam -->
+
+    <input type = "button" onclick = "searchfilter('food')" value = "food">
+
+    <input type = "button" onclick = "searchfilter('clothes')" value = "clothes">
+
+    <input type = "button"  onclick = "searchfilter('electronic')" value = "electronic">
+
+    <input type = "button"  onclick = "backtoproducts()" value = "HOME">
+    <br><br>
+    <div id = 'form_id'>
+        <label>UserName : </label>
+        <input type = text id="u_id"> </br></br>
+        <label>
+            Password : 
+        </label>
+        <input type = password  id="p_id"></br></br>
+        <input type = "button" onclick="login()" value = "submit">
+    </div>
+   
+    <main id = "main_id"></main>
+    <total id="total" > </total  >
+    <cart id = "cart_id"></cart>
+
+    
+
+   
+
+
+</body>
+
+
+
+</html>
